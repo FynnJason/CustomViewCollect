@@ -1,5 +1,5 @@
-# CustomViewCollect
-收集各种优秀的自定义View
+
+# 收集各种优秀的自定义View
 
 Step 1. Add the JitPack repository to your build file
 ```
